@@ -1,0 +1,13 @@
+name = "Freaworld"
+author = "Miohouse"
+version = "0.0.1-alpha"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8a19d9366491938078721ba0d2bfb6247a51ff5796480a0f2a9829e75eded90b"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.18.1-beta.21"
