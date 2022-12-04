@@ -6,7 +6,7 @@
 		"version": "${version}",
 		"metadata": {
 			"name": "Freaworld",
-			"description": "A short description of your mod.",
+			"description": "A modpack.",
 			"contributors": {
 				"Miohouse": "Owner"
 			},
@@ -17,6 +17,9 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
+			"events" : [
+				"team.miohouse.freaworld.data.recipe.RecipeTweaks"
+			]
 		},
 		"depends": [
 			{
