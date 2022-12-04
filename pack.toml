@@ -1,6 +1,6 @@
 name = "Freaworld"
-author = "xmzh"
-version = "1.18.2-Quilt"
+author = "Miohouse"
+version = "0.0.1-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
