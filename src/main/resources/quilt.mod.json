@@ -1,23 +1,22 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "com.dm.earth",
-		"id": "modid",
+		"group": "team.miohouse",
+		"id": "freaworld",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Id",
+			"name": "Freaworld",
 			"description": "A short description of your mod.",
 			"contributors": {
-				"DM Earth": "Owner"
+				"Miohouse": "Owner"
 			},
 			"contact": {
-				"sources": "https://github.com/DM-Earth"
+				"sources": "https://github.com/Darknight123MC/Freaworld"
 			},
-			"icon": "assets/modid/icon.png"
+			"icon": "assets/freaworld/icon.png"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.dm.earth.modid.Modid"
 		},
 		"depends": [
 			{
@@ -34,5 +33,5 @@
 			}
 		]
 	},
-	"mixin": "modid.mixins.json"
+	"mixin": "freaworld.mixins.json"
 }
