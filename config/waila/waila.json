@@ -24,7 +24,7 @@
       "bossBarsOverlap": false
     },
     "color": {
-      "alpha": 80,
+      "alpha": 0,
       "themes": [
         {
           "id": "waila:dark",

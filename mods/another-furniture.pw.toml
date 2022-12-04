@@ -1,0 +1,13 @@
+name = "Another Furniture"
+filename = "another_furniture-fabric-1.1.1-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ulloLmqG/versions/1.18.2-1.1.1/another_furniture-fabric-1.1.1-1.18.2.jar"
+hash-format = "sha1"
+hash = "3c073dd00bcb4db21fda6d01a5591a847463a6e3"
+
+[update]
+[update.modrinth]
+mod-id = "ulloLmqG"
+version = "uoWNrn8k"

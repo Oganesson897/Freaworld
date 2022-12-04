@@ -1,0 +1,13 @@
+name = "Chipped"
+filename = "chipped-2.0.0-fabric (2).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BAscRYKm/versions/ZHiJOgYQ/chipped-2.0.0-fabric%20%282%29.jar"
+hash-format = "sha1"
+hash = "fd5f4ccb561ea6e703fb02027f24729500df83c2"
+
+[update]
+[update.modrinth]
+mod-id = "BAscRYKm"
+version = "ZHiJOgYQ"

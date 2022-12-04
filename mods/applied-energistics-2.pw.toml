@@ -1,0 +1,13 @@
+name = "Applied Energistics 2"
+filename = "appliedenergistics2-fabric-11.6.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2334d0f3df014d74288242e48c97bbb4f4129a37"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4126662
+project-id = 223794

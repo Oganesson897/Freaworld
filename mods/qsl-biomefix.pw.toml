@@ -1,0 +1,13 @@
+name = "Quilted Fabric API (QFAPI) / QSL - Biomefix - 1.18.2"
+filename = "quilted-fabric-api-1.0.0-beta.28+local-0.67.0-biomefix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sJcKqUlG/versions/F3l0zhel/quilted-fabric-api-1.0.0-beta.28%2Blocal-0.67.0-biomefix.jar"
+hash-format = "sha1"
+hash = "3c1240c7bc428d44a06e86357e89ca13c019fde5"
+
+[update]
+[update.modrinth]
+mod-id = "sJcKqUlG"
+version = "F3l0zhel"
