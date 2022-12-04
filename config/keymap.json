@@ -1,0 +1,11 @@
+{
+  "firstOpenDone": false,
+  "autoSelectLayout": false,
+  "customLayout": "en_us",
+  "replaceKeybindScreen": true,
+  "malilibSupport": true,
+  "debug": false,
+  "debug2": false,
+  "crashOnProblematicError": false,
+  "showHelpTooltips": true
+}

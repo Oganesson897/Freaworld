@@ -1,0 +1,14 @@
+{
+	"backgroundColor": 1447446,
+	"logoOpacity": 1.0,
+	"barOpacity": 1.0,
+	"showTater": true,
+	"modsOnlyOnce": false,
+	"hideLibraries": false,
+	"modIdBlacklist": [],
+	"iconSize": 48,
+	"screenType": "SNOWFLAKES",
+	"stackingConfig": {
+		"cycleSeconds": 20
+	}
+}

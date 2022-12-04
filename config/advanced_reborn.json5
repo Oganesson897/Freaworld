@@ -1,0 +1,62 @@
+{
+	// Add Tech Reborn's ore-based tool turtle and more.
+	"linkComputerCraft": true,
+	// link Roughly Enough Items with Tech Reborn
+	"linkReiWithTR": true,
+	// link Roughly Enough Items with Advanced Reborn
+	"linkReiWithAR": true,
+	// link Roughly Enough Items
+	"linkRei": true,
+	// Rotary Grinder, Centrifugal Extractor, Singularity Compressor Max Input (Value in EU)
+	"advancedMachineMaxInput": 256,
+	// Rotary Grinder, Centrifugal Extractor, Singularity Compressor Max Energy (Value in EU)
+	"advancedMachineMaxEnergy": 10000,
+	// Canning Machine Max Input (Value in EU)
+	"canningMachineMaxInput": 32,
+	// Canning Machine Max Energy (Value in EU)
+	"canningMachineMaxEnergy": 1000,
+	// Renaming Machine Max Input (Value in EU)
+	"renamingMachineMaxInput": 32,
+	// Renaming Machine Max Energy (Value in EU)
+	"renamingMachineMaxEnergy": 1000,
+	// Renaming Machine Use Energy (Value in EU)
+	"renamingMachineUseEnergy": 4,
+	// Teleporter Use Energy (Value in EU)
+	"teleporterUseEnergy": 64,
+	// If you make a mistake in setting the teleporter and you get an infinite loop, you can fix it by disabling it.
+	"teleporterEnabled": true,
+	// Farming Machine Max Input (Value in EU)
+	"farmingMachineMaxInput": 32,
+	// Farming Machine Max Energy (Value in EU)
+	"farmingMachineMaxEnergy": 1000,
+	// Farming Machine Energy used to plant (Value in EU)
+	"farmingMachinePlantUseEnergy": 4,
+	// Farming Machine Energy used to harvest (Value in EU)
+	"farmingMachineHarvestUseEnergy": 8,
+	// Farming Machine Range
+	"farmingMachineRange": 3,
+	// Logging Machine Max Input (Value in EU)
+	"loggingMachineMaxInput": 32,
+	// Logging Machine Max Energy (Value in EU)
+	"loggingMachineMaxEnergy": 1000,
+	// Logging Machine Energy used to plant (Value in EU)
+	"loggingMachinePlantUseEnergy": 4,
+	// Logging Machine Energy used to logging (Value in EU)
+	"loggingMachineLoggingUseEnergy": 8,
+	// Logging Machine Range
+	"loggingMachineRange": 3,
+	// Fertilizer Spreader Max Input (Value in EU)
+	"fertilizerSpreaderMaxInput": 32,
+	// Fertilizer Spreader Max Energy (Value in EU)
+	"fertilizerSpreaderMaxEnergy": 1000,
+	// Fertilizer Spreader Use Energy (Value in EU)
+	"fertilizerSpreaderUseEnergy": 4,
+	// Fertilizer Spreader Range
+	"fertilizerSpreaderRange": 3,
+	// Enchantment Extractor Max Input (Value in EU)
+	"enchantmentExtractorMaxInput": 32,
+	// Enchantment Extractor Max Energy (Value in EU)
+	"enchantmentExtractorMaxEnergy": 1000,
+	// Enchantment Extractor Use Energy (Value in EU)
+	"enchantmentExtractorUseEnergy": 4
+}

@@ -1,0 +1,10 @@
+{
+  "sameColor": false,
+  "range": 384,
+  "precisionTarget": true,
+  "resetPitchNormal": false,
+  "resetPitchDirectional": true,
+  "useXP": false,
+  "xpPointsAmount": 1,
+  "customElevators": []
+}
