@@ -1337,8 +1337,48 @@ file = "mods/ad-astra-1.0.5-1.18.2.jar"
 hash = "f8b21c027f557ae702f2ad0828fdbb9218c0aab4edd21aef6416df6c868f7233"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "e5747dab7cf08bee2a062de60685217771615b8276f607e1ad6c6595e9b13197"
+metafile = true
+
+[[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "79fa405f45a2d0b81dfc6c310180889fe2d2548d840153e515b46379f46b82d2"
+metafile = true
+
+[[files]]
+file = "mods/advanced-reborn.pw.toml"
+hash = "1a87f072370b7922656215bf8e3f9359a9fbaec6fb07898492fb96241ad17788"
+metafile = true
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "4fe337508e47e5fa28c17a1debdc377e64cdef00b0b57b5cf91b569e1f2ad379"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "157ed721d6a8b46bb8e47eaf60474a3974fecfb5b6ba8a5350c171caa8bfb316"
+metafile = true
+
+[[files]]
 file = "mods/another_furniture-fabric-1.2.2-1.18.2.jar"
 hash = "ad460c7e934b3a1bde88fed2baccf027cc1ae970da014323593d5d1c46f10835"
+
+[[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "75c134e40d73075a4751d1fc4ae25f25b43f4960d1902a0ab8c7fac74efea480"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "89fe38f93f9f797a299dd8c5d83e0e294ae2240572404ec74e79309e509fba3d"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "0597f7f39c835665e82dde6d5b7eda12b5e85f4860fcddffc39a02f02dcc6e89"
+metafile = true
 
 [[files]]
 file = "mods/appliedenergistics2-fabric-11.6.7.jar"
@@ -1349,16 +1389,51 @@ file = "mods/architectury-4.10.86-fabric.jar"
 hash = "abceb578f99e75be35456543ab7d9661db06685bae3ff271a78b4a725b99a1b8"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ccf1f3f81ce91c460704f8371e1a737343701eb5bd64d1937b18e26d5816b522"
+metafile = true
+
+[[files]]
 file = "mods/badpackets-fabric-0.1.3.jar"
 hash = "b5c41d4b22b8c00af0a5249468409d581ff35e7091355397218b213e7f4b01a3"
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "c3d163564b8c89694cdcc76060ccd67ea9178a08e18e5d57243a704809f4defc"
+metafile = true
 
 [[files]]
 file = "mods/balm-fabric-3.2.0+0.jar"
 hash = "f0e5355f2cbe3d9ba8db9e440c5f605f8971a41173b04f10cb24cc1f308f05ab"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "918e0574c67e9dd023a7757060ba398c806adb9e271e715e7ee7fd6416c4b83e"
+metafile = true
+
+[[files]]
+file = "mods/bang.pw.toml"
+hash = "025e245cb5b2aa2339e11c483e4c502d7a12ddcb16e68394c7777ee4aad7cfeb"
+metafile = true
+
+[[files]]
 file = "mods/bclib-1.4.7.jar"
 hash = "004ac93c0f3f521213bcdbee19b636395c466db8d034ccf42f66981a4abb3b05"
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "7d9e39e08101fdb900fc08e51349d5162ce26c2fa53f51baa83fb607e74a68ac"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "4f8a5eba4f26778c4720b23b9fdfb65407781bebbace13e7227c42a448ad6287"
+metafile = true
 
 [[files]]
 file = "mods/better-end-1.1.1.jar"
@@ -1373,8 +1448,53 @@ file = "mods/betterbiomeblend-1.18.2-1.3.5-fabric.jar"
 hash = "ff8c58b76520f96b1072c4dcdb217713f169bb37f3d1279111ac7f79f44c5128"
 
 [[files]]
+file = "mods/betterend.pw.toml"
+hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "4282b7fa7650440b13dc25a7a3f9433b69f4e2701a95315629a8b1e98e304891"
+metafile = true
+
+[[files]]
 file = "mods/blur-2.4.1.jar"
 hash = "44132336320c2c8091e493a12617870225678d437052188513481be6b47295d9"
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "59dccf977ea30022f357761ebba038d457f11c33979ccbe117c9c58c14dd6d8d"
+metafile = true
+
+[[files]]
+file = "mods/botania-fabric.pw.toml"
+hash = "abff7ae8e4b78212fb8b770526c7de8ce388ee8f3b4f207124923420254dcee4"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots-tiers.pw.toml"
+hash = "af34ddaff4d38ae09402d892cce6713e539370fdb285e446d9cafeca49c49381"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "92944ea11dbb219dd0fbd7673a468fc1a8629ca1be05d3c8de9cb8fe1223ebb6"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "1907c8beedb580cd4f8986c01eafeba2b079d768d05097f08e1ab0b352468e0e"
+metafile = true
+
+[[files]]
+file = "mods/break-progress.pw.toml"
+hash = "a2d93ecea4b50cc8054d71b2850a5cf6b92061c4abbf26831a0ef42bc0a9981b"
+metafile = true
 
 [[files]]
 file = "mods/breakprogress-1.0.1.jar"
@@ -1385,32 +1505,92 @@ file = "mods/can-i-mine-this-block-1.2.0.jar"
 hash = "f809b7e7faacf9f60fb43486fa01b9ac83b34ef648904f27b12ffb4f74e0027d"
 
 [[files]]
+file = "mods/can-i-mine-this-block.pw.toml"
+hash = "afdd8be3fe26244ff1638af78cb8d33a1a7b650ea7f3dd9247aa5a020d67ddd5"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api-4.2.0.jar"
 hash = "3de4ece605c0e603685bb0a33adbdc18f69c84b706b1653f73ea96708ce301fa"
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "bd1682a96d36541581d636eb8bb9438c2276a175d42cc9db1d7dc007664d5353"
+metafile = true
 
 [[files]]
 file = "mods/chipped-2.0.0-fabric.jar"
 hash = "cb0f0a3940ae26753e47b55d298811f239df9b32c221489499cd1de6e599a99a"
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "b8e30a6c0e5ccc45db774aa1ad5a1d01f30828df606d8d57503d38ab6c07a4f3"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config-6.4.90-fabric.jar"
 hash = "eebd0fc00b001d0106ae7f42b3e40e6c35722e20e5f9d13fa99e07b3a6ff7dd8"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "c889a9718156003d2c5e63df9b73954d9fa8134ad71ba3c41dcb2378a642f79d"
+metafile = true
+
+[[files]]
+file = "mods/coloured-tooltips.pw.toml"
+hash = "4081634e1aca318fa1a30d1a82ef2dd61032239c5086382bb196bdf3f9425697"
+metafile = true
 
 [[files]]
 file = "mods/compactmachines-4.5.0a-fabric.jar"
 hash = "95bd47d381b652ba11f9b291ff734b30ae84c67b1bc4d1144a9957f52e54fc51"
 
 [[files]]
+file = "mods/connectible_chains.pw.toml"
+hash = "0af80b01b702c1a4dcb1e3ecd3b2d58a6ab6f2747365f13751e08734871ced5d"
+metafile = true
+
+[[files]]
 file = "mods/connectiblechains-2.1.4+1.18.2.jar"
 hash = "917ecd9e0bf3c33159ddad6a08e68991b7263fc13feb631d8cd6b60e994a3cf9"
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
+metafile = true
+
+[[files]]
+file = "mods/cpm-fabric.pw.toml"
+hash = "df356cf96801e87f446f6c7cca982025c2e675fd761dfa44e7b39fc197e8cf43"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks-fabric.pw.toml"
+hash = "d29ea37503c0416871380e3e056b035a793e50ea5b052a7158ca8a9099fa95d1"
+metafile = true
 
 [[files]]
 file = "mods/craftingtweaks-fabric-1.18.2-14.0.3.jar"
 hash = "bc93e298f36b22b5362a21c671938cebe576b73815cdb33ebdbc1931a2cf8160"
 
 [[files]]
+file = "mods/create-crystal-clear-fabric.pw.toml"
+hash = "6e34e6b12a4140c3a673fcfeef6fbd5dfeb65eb5019d5ef42b89ffc58197fec5"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-0.5.0g-792+1.18.2.jar"
 hash = "28c43056a4ae66f874076f9b3d0446bc87f6f2f2fd0a804e11000cf7122a50f3"
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "d17801cdbcb90392e921548c26a123b6ce389d48cb910ae43d828b38ff4fb183"
+metafile = true
 
 [[files]]
 file = "mods/create_crystal_clear-0.1e-1.18.2.jar"
@@ -1421,8 +1601,18 @@ file = "mods/createaddition+1.18.2-fabric-1.18.2-20221129a.jar"
 hash = "30e1974af5a83501f8ddb212c14169e0fcc1cdff71c114831e58ac563b14f98b"
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "af634e7daaa5608ac208de4748b2efba58ce8b46d477043e65aa6e27398618a7"
+metafile = true
+
+[[files]]
 file = "mods/createplus-1.0.0-beta4.jar"
 hash = "8c713dcf1da8db81fcecba7ff45360ff004cb559a5f6e27a6993d1874fec9f4e"
+
+[[files]]
+file = "mods/createplus.pw.toml"
+hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
+metafile = true
 
 [[files]]
 file = "mods/croptopia-chocolaterie-1.2-1.18.2.jar.disabled"
@@ -1431,6 +1621,11 @@ hash = "20de51cca42d88ed9af146e89389f9fc834372bf32e9bf9c5b956518c5877672"
 [[files]]
 file = "mods/ctm-fabric-1.0.0+1.18.jar"
 hash = "89f4a6356e88b1ca7ae51b449a6c2e59cbc2edc0ced632c80ef71d6d7c9b8e03"
+
+[[files]]
+file = "mods/ctm-refabricated.pw.toml"
+hash = "daeb1bc740f2e5dbedff29790e3339418b172cce29b674dbf8eb87fbd6f6d60c"
+metafile = true
 
 [[files]]
 file = "mods/culinaire-2.4.0.jar"
@@ -1549,6 +1744,11 @@ file = "mods/icarus-1.11.jar"
 hash = "3e35487cc8abd3b2384a20315be4fe9eddba39056a50b525d2b1bd0faf8a60ee"
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "ca9862d2c94798a84cd15bc09390bf3cd8ec53b7d4a8ed253ae654cf8a9ea49f"
+metafile = true
+
+[[files]]
 file = "mods/indium-1.0.7+mc1.18.2.jar"
 hash = "29f1dbe801109ae77e14a4c24ac7563971832b62e20557d843bf3a8311466152"
 
@@ -1657,6 +1857,11 @@ file = "mods/mcpitanlibarch-1.1.8-1.18-fabric.jar"
 hash = "e425771e3c91fcfc2c29b67095aa032750456fefbda8c7eb41e715bd50360b26"
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "86f1b4d1fdcff07220fa615dfde62dd0c695860eebd8a2e499ca2aadf24e1810"
+metafile = true
+
+[[files]]
 file = "mods/megane-7.9.1.jar"
 hash = "67388c821229971bdf9a54511afcea0211bb2d7f4659d7a323c26e9bd7a96f13"
 
@@ -1685,6 +1890,11 @@ file = "mods/mysticalnature-1.6.4-1.18.2.jar"
 hash = "06bc5cc208d5fae5f81b76c25b2c1b4596afdd05ad9cd08715c5c15a4f4589ac"
 
 [[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
+metafile = true
+
+[[files]]
 file = "mods/polymorph-fabric-0.0.21-1.18.2.jar"
 hash = "c241a8dcea05a9fed9a54f51e3c4e0fed185acb84f8887d73bcaf5ebfcbf1714"
 
@@ -1695,6 +1905,11 @@ hash = "7ea534ee50dc12a440f783a977f1218116c4e2ed6e9b1352e03dc0fae61c7a93"
 [[files]]
 file = "mods/probejs-4.0.0-fix2-fabric.jar"
 hash = "e9364c9539bdcfb0a7734822e40c109f41fb1cf0101c8486cb2b8f21f393ff19"
+
+[[files]]
+file = "mods/qsl-biomefix.pw.toml"
+hash = "30d0dbe64c6976bf411e13f699a74a9f5b2080ba7ba62e5f6f0936cfca59c676"
+metafile = true
 
 [[files]]
 file = "mods/questsadditions-fabric-1.18.2-1.4.0.jar"
@@ -1749,6 +1964,11 @@ file = "mods/trinkets-3.3.1.jar"
 hash = "985920fe4affcd9c1e998eff1a0e63ce38e8ab869f1c14376742125d65c48108"
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
 file = "mods/upc-0.0.2.jar"
 hash = "bbff7c0652047098384cb5a9a61deadec06a7a3fefc1190acc14beacca4ba9d4"
 
@@ -1767,3 +1987,8 @@ hash = "28ef51995fd58afd1fe7676d238602584ada2125b099acfe348c0e4230c5d7c2"
 [[files]]
 file = "mods/wthit-fabric-4.13.5.jar"
 hash = "f4871b1a47dde7c0fcff7c652e696d336c24e666b4167517d649942e25644e6a"
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "c23e19e793df2ee017103c37c239fb4d7d888641e2f0a02c933f377d9c905390"
+metafile = true

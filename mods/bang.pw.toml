@@ -1,0 +1,13 @@
+name = "BANG"
+filename = "BANG-fabric-1.0.1-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wRLcZawD/versions/fabric-1.0.1-1.18.2/BANG-fabric-1.0.1-1.18.2.jar"
+hash-format = "sha1"
+hash = "df503b82032bf6e854182f145b8cd94b1d2e04af"
+
+[update]
+[update.modrinth]
+mod-id = "wRLcZawD"
+version = "74VEeaEa"

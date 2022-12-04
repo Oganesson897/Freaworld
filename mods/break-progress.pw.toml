@@ -1,0 +1,13 @@
+name = "Break Progress"
+filename = "breakprogress-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cad6999109f1f156e2cd2be7eabb4c528d24b4a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3133167
+project-id = 416406
