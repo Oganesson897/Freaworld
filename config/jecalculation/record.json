@@ -1,5 +1,8 @@
 {
-    "player": {"recipes": {}},
+    "player": {
+        "recipes": {},
+        "last": ""
+    },
     "craft": {
         "inventory": 0b,
         "amount": "",

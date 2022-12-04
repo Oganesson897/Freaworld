@@ -12,11 +12,11 @@
   "overlay": {
     "position": {
       "align": {
-        "x": "CENTER",
+        "x": "RIGHT",
         "y": "TOP"
       },
       "anchor": {
-        "x": "CENTER",
+        "x": "RIGHT",
         "y": "TOP"
       },
       "x": 0,
@@ -24,7 +24,7 @@
       "bossBarsOverlap": false
     },
     "color": {
-      "alpha": 0,
+      "alpha": 80,
       "themes": [
         {
           "id": "waila:dark",
