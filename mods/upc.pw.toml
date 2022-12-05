@@ -1,0 +1,7 @@
+name = "upc"
+filename = "upc-0.0.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/zDLZFPAs/versions/0.0.1/upc-0.0.1.jar"
+hash-format = "sha1"
+hash = "fa08d31b51ba3e3a690385d49b11102982cdb541"

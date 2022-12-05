@@ -1,0 +1,7 @@
+name = "plg"
+filename = "1.1.1-fabric-mc1181-revert"
+
+[download]
+url = "https://modrinth.com/mod/plg/version/1.1.1-fabric-mc1181-revert"
+hash-format = "sha1"
+hash = "7a0fd3c14800eda66184d1d991b39c931b0a0c56"

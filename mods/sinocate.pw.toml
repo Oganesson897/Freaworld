@@ -1,0 +1,7 @@
+name = "sinocate"
+filename = "SinoCate-fabric-snapshot-2201-for-1.18.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/qdR0pekK/versions/snapshot2201/SinoCate-fabric-snapshot-2201-for-1.18.jar"
+hash-format = "sha1"
+hash = "6de365595c3261e7a43c1f500870375e90b53661"

@@ -1,0 +1,13 @@
+name = "Croptosis"
+filename = "wraith-croptosis-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "097fde3766f8fb14c00090034589c7ba26c48ce2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3686895
+project-id = 437552

@@ -1,0 +1,13 @@
+name = "Structory"
+filename = "Structory-1.18.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2604a1eb6b477632581be2c955b87facb5c80bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3850446
+project-id = 636540

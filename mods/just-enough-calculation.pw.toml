@@ -1,0 +1,13 @@
+name = "Just Enough Calculation"
+filename = "jecalculation-fabric-1.18.2-4.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4857e82494b32eb2e29b876886a0208a3a8b0158"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4105451
+project-id = 242223

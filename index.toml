@@ -837,6 +837,11 @@ hash = "4fe337508e47e5fa28c17a1debdc377e64cdef00b0b57b5cf91b569e1f2ad379"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "e1b2769ef5f49c7e2a6efae3b39ea4364eb49383181fd2d20be50e58537b998e"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "157ed721d6a8b46bb8e47eaf60474a3974fecfb5b6ba8a5350c171caa8bfb316"
 metafile = true
@@ -953,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+hash = "8f07b2408013a7217caacec87c977635fdf94eb21a10bf281f2bba67ff7c4dc1"
 metafile = true
 
 [[files]]
@@ -1004,6 +1009,11 @@ metafile = true
 [[files]]
 file = "mods/createplus.pw.toml"
 hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
+metafile = true
+
+[[files]]
+file = "mods/croptosis.pw.toml"
+hash = "1496f7934e3cb4a0ad45bdffe5b79c1c53e858cd8a6fb148c15b944d6ed919a0"
 metafile = true
 
 [[files]]
@@ -1068,7 +1078,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "145dbcbac757622ec415041cdcabf07654981f84d5044c8fc16f6aa88a03ccb3"
+hash = "8cf5324d7ab4e2080d3abb786acdc1a2f4fa0a139d296ae056db321362edff77"
 metafile = true
 
 [[files]]
@@ -1153,6 +1163,11 @@ metafile = true
 [[files]]
 file = "mods/ftbconv-1.0.0-fabric.jar"
 hash = "797675b89dc453e597f3d0106bfe5031c66f976a01ed5efe15255aa9e7c9c44c"
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "61424d3bdb2b03a7091d03264023fd9e57fea74f2188ff6159b950c7f3d3f395"
+metafile = true
 
 [[files]]
 file = "mods/galosphere.pw.toml"
@@ -1258,6 +1273,21 @@ file = "mods/journeymap-1.18.2-5.9.0beta3-fabric.jar"
 hash = "546d11fc92c79ff45b83b3d1ba8dcbecd27039e6fec7ae5c0f50591fd1bd6769"
 
 [[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "b036ebb6c9f3a7177220ec7f5fc6bc84186a9236837b30d2bc3ad9667b617b03"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "9d1d54ab28651ae535cd28494a34e2753af1c810ec3d1c2b8247deae75fd69a2"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-calculation.pw.toml"
+hash = "a9668b76f8e65d424f701ccbb20cca0324505bc933b52e3f8504b9349cbfa5a3"
+metafile = true
+
+[[files]]
 file = "mods/keywizard-fabric-v2.0.1.jar"
 hash = "b3bcdaca53a9f0276754a0c2800fb475357bce0a097ee49b1afeeb2d8cf8dc3a"
 
@@ -1266,8 +1296,18 @@ file = "mods/kibe-1.9.10-BETA+1.18.jar"
 hash = "e815e814138cbe9462c0dbd8296c177baade4d61c296098b195d793579d4b3b8"
 
 [[files]]
+file = "mods/kibe.pw.toml"
+hash = "3e47e98487168bea70eca4a17fd42530ce9fe4b4e1c62d882674e51d181c369a"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs-fabric-1.18.2-11.1.1.jar"
 hash = "810438ca1dbcee20b3958ca55980cc9dd5c7aace014a1f53df9da3d170ab7e49"
+
+[[files]]
+file = "mods/kleeslabs-fabric.pw.toml"
+hash = "225cce7608efe6077ede8934adf24ff96e53c50323235c6fc481359a00a87b3d"
+metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
@@ -1303,6 +1343,11 @@ file = "mods/language-reload-1.2.1.jar"
 hash = "acf995674b1d9d88203f762aeb7bac9756b946a3bd26d1b08f109f1b82b05c1e"
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "2c410266c2e5763c5ebaaedbe68519920e857c8d6edac44aadefa2b407d016f5"
+metafile = true
+
+[[files]]
 file = "mods/lazy-language-loader-0.3.0.jar"
 hash = "c8b336fd6ad75a9e0bd65e7c5bd2abccce7b507fb5ee47253a7a73081f511e9b"
 
@@ -1320,12 +1365,27 @@ file = "mods/light-overlay-6.0.5.jar"
 hash = "98f958edb3b5545f0bbe157ae202faddf2855d2d812b9989cd99f4ef6c508c03"
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "d01fb092c0d589adac82e463d30889dad8e32f87faaeeb73b15a285a7f8bcecb"
+metafile = true
+
+[[files]]
 file = "mods/lithium-fabric-mc1.18.2-0.10.2.jar"
 hash = "24f0eda789528afde46d447d61201ddb5fd5774252d98b04e0bc11915dd90ca9"
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "9009a697370bb3798834b690eda2c418799e4e7bd4f3439cf767bbf0cd345ab3"
+metafile = true
+
+[[files]]
 file = "mods/loadingscreentips-1.0.1.jar"
 hash = "0d29f01961cdbf762203376c24840adb5d65e5928acbbc87702801b2b35b8480"
+
+[[files]]
+file = "mods/loadingscreentips.pw.toml"
+hash = "a6e7a551643518686eeffb6a82888a1b60be749aeb4af786897ff1d331667cfb"
+metafile = true
 
 [[files]]
 file = "mods/lootjs-fabric-1.18.2-2.7.7.jar"
@@ -1334,6 +1394,11 @@ hash = "4606f5128d67e4866021883bf5ccd7dd4735b69589323371f5405f63f2c71011"
 [[files]]
 file = "mods/lootr-1.18.2-0.3.23.60.jar"
 hash = "c3ce61c011c6eb90a889e95da9c8e10d35fae99d89513d7e8735eff4bede56a3"
+
+[[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "57220e0ed2701759d7b3769bd337bbf128b049acc98f645a71ec88b40170db48"
+metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
@@ -1345,16 +1410,46 @@ file = "mods/megane-7.9.1.jar"
 hash = "67388c821229971bdf9a54511afcea0211bb2d7f4659d7a323c26e9bd7a96f13"
 
 [[files]]
+file = "mods/megane.pw.toml"
+hash = "1d15b4f366ffc9430ab6650362448777f8a99f585be792307cf329bf1bff6d4b"
+metafile = true
+
+[[files]]
 file = "mods/merequester-1.18.2-1.0.2.jar"
 hash = "a4c272f79698495aa8f2eda6b892bc251c3f141a6b17c0b4674d0f28f0dc19b7"
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "e0059629e1cbfa99bf998df23828517a320fa6b880209c64d6cc635819c16cf9"
+metafile = true
 
 [[files]]
 file = "mods/midnightlib-0.4.4.jar"
 hash = "3052664292756b4da6a04efaa0dabdfc346b9f1fe30d69d577d766a1ad1efa6d"
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "47c92b4cfd41908adff40fe773908eccebe0332bb94c31072a4382f4f735c599"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "fddea163704d62b0fe41fee6bb5f022ec593dd2a6cee03ee5a45ed6053d58a30"
+metafile = true
+
+[[files]]
 file = "mods/moderate-loading-screen-1.1.3+1.17-1.18.jar"
 hash = "e71bc8afa5d8f87ee46e0ae53cdc28c9efd8f4136bb291628a771f6707a971c3"
+
+[[files]]
+file = "mods/moderate-loading-screen.pw.toml"
+hash = "2cfc54404f2068dbd5d718861203bbe9955ef99ed2775fe0c873e0a1175ca976"
+metafile = true
+
+[[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "6ed4f74b5a5189086b3d8797162fa27513e72070389e5fe6c80df24ff757f507"
+metafile = true
 
 [[files]]
 file = "mods/modern-glass-doors.pw.toml"
@@ -1362,16 +1457,41 @@ hash = "b28529026f8b762a14302dc4d31edd3e96232ad5ee48256b81d9a4b159465218"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "c013f8fdeb6a922df3f41887f712e297146f11c3775e35a5cefe8d3023d21782"
+metafile = true
+
+[[files]]
 file = "mods/modmenu-3.2.4.jar"
 hash = "1085d0fe7caddd5abba413cc004d1f37c7e1c79fecc5dc5bed3524c9a4529865"
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e672a82c056e3aa8140bbdcdc82ccd7269133a830bcb880fa0b5fce9f42f2d3b"
+metafile = true
 
 [[files]]
 file = "mods/mostructures-1.4.2+1.18.2.jar"
 hash = "30510f295cb368141cb58ccf9c187c7a2cfb684b6fe04d7a6d22486de67654a9"
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ce135ca85c8b940d23d2970ae1032a2a8f572a6b9f98d251ef671c5186a57ff8"
+metafile = true
+
+[[files]]
+file = "mods/mystical-nature.pw.toml"
+hash = "6230826a7424d9effd5b4e4b1aced31613b3b67a66286c52f64ac8bbb714f6a8"
+metafile = true
+
+[[files]]
 file = "mods/mysticalnature-1.6.4-1.18.2.jar"
 hash = "06bc5cc208d5fae5f81b76c25b2c1b4596afdd05ad9cd08715c5c15a4f4589ac"
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
+metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
@@ -1379,8 +1499,18 @@ hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
 
 [[files]]
+file = "mods/plg.pw.toml"
+hash = "c0528bd15f246c1752725a90fcde0b4f860c23bec6969a075e9e74470179df0f"
+metafile = true
+
+[[files]]
 file = "mods/polymorph-fabric-0.0.21-1.18.2.jar"
 hash = "c241a8dcea05a9fed9a54f51e3c4e0fed185acb84f8887d73bcaf5ebfcbf1714"
+
+[[files]]
+file = "mods/polymorph-fabric.pw.toml"
+hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
+metafile = true
 
 [[files]]
 file = "mods/ponderjs-fabric-1.18.2-1.1.5.jar"
@@ -1396,12 +1526,22 @@ hash = "30d0dbe64c6976bf411e13f699a74a9f5b2080ba7ba62e5f6f0936cfca59c676"
 metafile = true
 
 [[files]]
+file = "mods/quests-additions-fabric.pw.toml"
+hash = "ce82dd38055992d8ef24a8d70372d4a57c4be55b08b6f31519f0381e25f295d2"
+metafile = true
+
+[[files]]
 file = "mods/questsadditions-fabric-1.18.2-1.4.0.jar"
 hash = "ffbe852fe80b457059a7b4cb9c1a7a84cad9a7321d226127ed97e1d44dfe6ef7"
 
 [[files]]
 file = "mods/reborncore.pw.toml"
 hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "ca3660b833d66bb9f7edd3cc418a83c49d52fc8c7e50a3e245e4a232b8b5c413"
 metafile = true
 
 [[files]]
@@ -1421,12 +1561,52 @@ file = "mods/right-click-harvest-1.2.0+1.18.2-fabric.jar"
 hash = "98ac103a80a499ce68525b2ee25ff5584a682c30f1aae8c391194b516b7e24e8"
 
 [[files]]
+file = "mods/right-click-harvest.pw.toml"
+hash = "e25a4b4597ff2053ad012fced6836cc0cc787f4a73b88ad0e5806b2985e7a418"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-characters-0.0.6+1.18.2-fabric0.13.3.jar"
 hash = "69b3c4e1b618929fd7b3b6f0fbb14cf8651ff42b0466951380e65d6271bfdd75"
 
 [[files]]
+file = "mods/roughly-enough-characters.pw.toml"
+hash = "c3e17cf651f3073961ebe34c8e481f0055dcb1a9b410bef0f9a32d5d86fd8091"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "df365e1fc2c5121377e1738be3a7648a808167bf02610df4288ddac60c3e4e95"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-loot-tables.pw.toml"
+hash = "0006c5a3520cf4e6f2868ceb18fa81c9878fe3adea4b5fc7fef51c0250843330"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "53335e3c29fbb36237257cfae9314f0be065cf83d759f5105a95009e70505c34"
+metafile = true
+
+[[files]]
 file = "mods/sandwichable-1.3+1.18.2.jar"
 hash = "14831834e1a587793dcf93ff1901b73b00e23b73811de481ae390546e12e21b6"
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "92c96cc5f76249f62fb2da230fc1b8e1e5cb63c499fcc37ec87c14f6a5def342"
+metafile = true
+
+[[files]]
+file = "mods/sinocate.pw.toml"
+hash = "3d49d666e0f24272574d6def23460d15127052ac2b92c88f2d1a12ce31507424"
+metafile = true
 
 [[files]]
 file = "mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar"
@@ -1442,8 +1622,23 @@ file = "mods/spark-1.9.11-fabric.jar"
 hash = "9aaca4aa6e415dae2970ddc0784d2414d39a7517c137ce925fba15dda0e30801"
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "b55d9d1ea5b5cadde5973123c0c644065f905afff5ea8d3d24c6d6564a7470cd"
+metafile = true
+
+[[files]]
 file = "mods/starlight-1.0.2+fabric.89b8d9f.jar"
 hash = "d8a8cfdd61502f5355581be72751ee35215418cc53de23a02071ee1ee295372d"
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
+metafile = true
 
 [[files]]
 file = "mods/techreborn.pw.toml"
@@ -1451,8 +1646,23 @@ hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
 metafile = true
 
 [[files]]
+file = "mods/tiefix.pw.toml"
+hash = "61437323b2bcc7ea579161059f7128d2aad4a38188a0b7a3cbd031165c6b8b2b"
+metafile = true
+
+[[files]]
 file = "mods/travelers-backpack-1.18.2-7.1.12.jar"
 hash = "6de16014a885f4dbee14a577721a1a6b1523926ef171b41bfa0f6956c6fd9d66"
+
+[[files]]
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "03b4ae02574b04f3b7b9de03ef95f37462cefef3effbb0800aaf810e5acc5421"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles-fabric.pw.toml"
+hash = "06e67496f26ce72320a5ed6ee106171cfe28ad0674b89499307d5cef6d6ac199"
+metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
@@ -1464,12 +1674,22 @@ file = "mods/upc-0.0.2.jar"
 hash = "bbff7c0652047098384cb5a9a61deadec06a7a3fefc1190acc14beacca4ba9d4"
 
 [[files]]
+file = "mods/upc.pw.toml"
+hash = "2f4f23cf5d9b0f11b32905f8069196831d88d8ab0ba4bdeb2caacdf26d982902"
+metafile = true
+
+[[files]]
 file = "mods/waystones-fabric-1.18.2-10.1.0.jar"
 hash = "68e38314b2cb7ed5e450aaa8addb0a3af333260bfe8efe112b368c270e0fb6b8"
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "32fb3d990a13819f8be435e135f92ba262aa455209f019852b05d2befb54e344"
+metafile = true
+
+[[files]]
+file = "mods/wireless-networks.pw.toml"
+hash = "e8723fb6d3ed1e7d7a10f53ad1b30dd19a1aaa53dde6f15d4c0ea249a5ee50c2"
 metafile = true
 
 [[files]]
@@ -1483,6 +1703,46 @@ hash = "28ef51995fd58afd1fe7676d238602584ada2125b099acfe348c0e4230c5d7c2"
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "c23e19e793df2ee017103c37c239fb4d7d888641e2f0a02c933f377d9c905390"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "973b23acf84af8e57c04f395a497f307cb929316d33b19e245228328c457d14f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.pw.toml"
+hash = "155eda7a63a53cce08924e9f9c64aa505b5d7a848f1a592e7ec061154012115d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.pw.toml"
+hash = "7eb509430f5866b8ebfef43e21cd4b9a73cf6056d18b0cf2cb4ae3cb884dfe06"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
+hash = "a6381c125d87a4f867c98f5a8a5cb1ba6e89dfcc7a05af846dc117e0cd3afd88"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.pw.toml"
+hash = "ddb9cf5438bf572b458b64eafcddfb42fb9f719b8cb4bf07412d8da73eb72ce6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+hash = "8bcd6a559fe83e7639a8d0b716043be1dad66f3bdc7994602c94fb840c304b31"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-fabric.pw.toml"
+hash = "f5e31a96c4fa606b9be31feb224160b35ee7fdfe425aaba792a6a108d706b985"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-fabric.pw.toml"
+hash = "43def9ff7e9948695c694d2395f21254fa857d50a4f8bd6f8c40ebd96655769e"
 metafile = true
 
 [[files]]
