@@ -19,6 +19,9 @@
 		"entrypoints": {
 			"events" : [
 				"team.miohouse.freaworld.data.recipe.RecipeTweaks"
+			],
+			"init" : [
+				"team.miohouse.freaworld.Freaworld"
 			]
 		},
 		"depends": [
