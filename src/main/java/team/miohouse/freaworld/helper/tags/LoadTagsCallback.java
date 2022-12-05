@@ -31,6 +31,7 @@ public interface LoadTagsCallback<T> extends EventAwareListener {
 			callback.load(handler);
 	});
 
+	@SuppressWarnings("unchecked")
 	interface TagHandler<T> {
 		Map<Identifier, Tag<Holder<T>>> get();
 
