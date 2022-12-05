@@ -1,0 +1,13 @@
+name = "Deep Mob Learning: Backported"
+filename = "deepmoblearning-backported-0.5.7-BETA-build3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tlALNajO/versions/SFnr9PoR/deepmoblearning-backported-0.5.7-BETA-build3.jar"
+hash-format = "sha1"
+hash = "f6207d7e9f6f0e2e2e6ef630ccd7eef664c47c4c"
+
+[update]
+[update.modrinth]
+mod-id = "tlALNajO"
+version = "SFnr9PoR"

@@ -1,0 +1,13 @@
+name = "Culinaire"
+filename = "culinaire-2.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MO1ODvmm/versions/2.4.0/culinaire-2.4.0.jar"
+hash-format = "sha1"
+hash = "02e79b2f3e66bdf6031b88fd60758c66fcdcaf6b"
+
+[update]
+[update.modrinth]
+mod-id = "MO1ODvmm"
+version = "5LLlg1IS"

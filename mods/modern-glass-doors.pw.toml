@@ -1,0 +1,13 @@
+name = "Modern Glass Doors"
+filename = "glassdoor-2.1.0+1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2da8aa2038acf0e80633d29e9e4931e74eb11a41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3652303
+project-id = 326641

@@ -1,0 +1,13 @@
+name = "Custom Machinery"
+filename = "custommachinery-1.18.2-0.7.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OrB5XFtI/versions/VPNW4dyN/custommachinery-1.18.2-0.7.2-fabric.jar"
+hash-format = "sha1"
+hash = "66092b187afe38e216ce1222fbe5662eeae3d4d7"
+
+[update]
+[update.modrinth]
+mod-id = "OrB5XFtI"
+version = "VPNW4dyN"
