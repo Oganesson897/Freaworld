@@ -1304,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-loot-tables.pw.toml"
-hash = "0006c5a3520cf4e6f2868ceb18fa81c9878fe3adea4b5fc7fef51c0250843330"
+hash = "0c616c886b2a4937559f6f61fcfc1a1a4b0884c6859877af6955de707c75d877"
 metafile = true
 
 [[files]]
@@ -1314,7 +1314,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-trades.pw.toml"
-hash = "53335e3c29fbb36237257cfae9314f0be065cf83d759f5105a95009e70505c34"
+hash = "b07d25447c7b903968b8ac72cff57dd5a63326ad085a546c0f9be23916f065eb"
 metafile = true
 
 [[files]]
@@ -1344,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
+hash = "6a471854fcc27b2f6af4eb196503403159d7724e37853efa01cde125e3e59ce2"
 metafile = true
 
 [[files]]

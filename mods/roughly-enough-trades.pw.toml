@@ -1,13 +1,7 @@
-name = "Roughly Enough Trades"
+name = "roughly-enough-trades"
 filename = "RoughlyEnoughTrades-1.1.1.jar"
-side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/3962/679/RoughlyEnoughTrades-1.1.1.jar"
 hash-format = "sha1"
 hash = "e38a3dcdd027488dc261926d1a34a62f7dd0e9cb"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3962679
-project-id = 664356

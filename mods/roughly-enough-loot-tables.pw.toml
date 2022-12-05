@@ -1,13 +1,7 @@
-name = "Roughly Enough Loot Tables"
+name = "roughly-enough-loot-tables"
 filename = "RoughlyEnoughLootTables-1.18-1.1.jar"
-side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/3965/904/RoughlyEnoughLootTables-1.18-1.1.jar"
 hash-format = "sha1"
 hash = "f201de5edf082addad4dcc7217362a1badf23603"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3965904
-project-id = 665532
