@@ -473,14 +473,6 @@ file = "config/jmi-client.json"
 hash = "e3eccd9ea53ea4cb7217cf4e474460e94d2afddc82a418d9f595e8ed62efc23c"
 
 [[files]]
-file = "config/journeymap-server.json"
-hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
-
-[[files]]
-file = "config/keymap.json"
-hash = "9246f98434de2d5bda6b23a9649d3edcb2069e13e7a0a31803be85812be1ef5b"
-
-[[files]]
 file = "config/kibe.json"
 hash = "d6966418105364d776e15e5adc212678f019b0df7c17fc16dac70d5705a9550a"
 
@@ -980,11 +972,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "ad2480f88580b1ed5ae4af18c3b6a09133675b5873d765f3dc66173d093e3c81"
 metafile = true
 
 [[files]]
