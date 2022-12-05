@@ -713,110 +713,6 @@ file = "defaultconfigs/ftbultimine/ftbultimine.snbt"
 hash = "3c1eafb3f0c7aa687a8dd2671376509a8044e5b83dfb7bc11a027c847e387502"
 
 [[files]]
-file = "mods/IngredientExtensionAPI-fabric-1.18.2-2.0.8.jar"
-hash = "f792a805db974b759b4451aa58e4df14fa0abd2e916c7856e0670f9d31548429"
-
-[[files]]
-file = "mods/InventoryProfilesNext-fabric-1.18.2-1.8.6.jar"
-hash = "cdbef99165c9465a6332f5273ff0c1e8b63bd1597b04f039b5cae935068062b7"
-
-[[files]]
-file = "mods/ItemBorders-1.18-fabric-1.1.5.jar"
-hash = "09db9d920d86b13e27430b72d8abfd7f0d2d13f53ffb02208dbe64bf9e76eb89"
-
-[[files]]
-file = "mods/Lychee-1.18.2-fabric-2.8.1.jar"
-hash = "92fedc7f7efbec903ec0f058541a3fe4156ce4d7ba9daa44d9df1782ad92b477"
-
-[[files]]
-file = "mods/Modern-Dynamics-0.2.6-beta.jar"
-hash = "4729bc071dea400bee0d1803988fe998775f867c550a4dfa0c4da9df9b27fe56"
-
-[[files]]
-file = "mods/Modern-Industrialization-1.2.3.jar"
-hash = "54d2dbca5b7cb510361a5a3a090c7ae1c969629bc4232cca90567c93a220f47b"
-
-[[files]]
-file = "mods/MouseTweaks-fabric-mc1.18-2.22.jar"
-hash = "aa02606fb77e560cd3d77b6f22cd4d26aa66903fcb021f18a645abb981af8a98"
-
-[[files]]
-file = "mods/NaturesCompass-1.18.2-2.0.3-fabric.jar"
-hash = "a931df75299e40574eff1fadd806ee3e2cf2b0bf1e6069d926691e8f96b746d2"
-
-[[files]]
-file = "mods/PermanentLightGenerator-fabric-1.18-1.1.1-revert.jar"
-hash = "61aeff5bfa4006f68788e6b1cf2502c62e252ec61942904c61224d01ecd32776"
-
-[[files]]
-file = "mods/RebornCore-5.2.0.jar"
-hash = "bab2264d0cc496169353f364be84e30c256121cd1fa1c83248bc71e8dfb9f759"
-
-[[files]]
-file = "mods/RoughlyEnoughItems-8.3.576.jar"
-hash = "4247d82284c32943aa0005b5f2affb56f91bb0131b99c204a6dd02763f4d4a61"
-
-[[files]]
-file = "mods/RoughlyEnoughLootTables-1.18-1.1.jar"
-hash = "dbe5218dcd125e70c5f89e867bb7659b70473bf2aa83f67b65ada057b90f1196"
-
-[[files]]
-file = "mods/RoughlyEnoughTrades-1.1.1.jar"
-hash = "f5f9ddc5684e03580794d96bdada4b54954117e6cf2bb0ca3159674940c4be5a"
-
-[[files]]
-file = "mods/SinoCate-Fabric-0.2.0-beta-mc1.18.2.jar"
-hash = "11918f8c2e5af8775bebd60d99507f25f2a30c56a7312ec852c0a7e4eaea9fad"
-
-[[files]]
-file = "mods/Structory-1.18.2-1.0.2.jar"
-hash = "d9513ec7fbfa96215096bee2dca8abb8838603bad32ecba348b109133fca1e77"
-
-[[files]]
-file = "mods/TechReborn-5.2.0.jar"
-hash = "2891dc3afad7a1502cb1e72f18db34b150b1545adf83990419a6e429aadae295"
-
-[[files]]
-file = "mods/TieFix-1.10.0.jar"
-hash = "a396be777b49fe6aa381c50cabc5d82f9db74b4bdebe04ee9c827c0a24dbd476"
-
-[[files]]
-file = "mods/TravelersTitles-1.18.2-Fabric-2.1.1.jar"
-hash = "6ef7043544ac91bd32657dd087884d34840c0eefd5f809ba3fe8d4c4fab74403"
-
-[[files]]
-file = "mods/YungsApi-1.18.2-Fabric-2.2.6.jar"
-hash = "50f948978a92a6dd896720e40529a2dc9967edf66e6dad2752d8cdd1633d93f3"
-
-[[files]]
-file = "mods/YungsBetterDungeons-1.18.2-Fabric-2.1.0.jar"
-hash = "2c60364d44551bbb8b166471149cb4cc16a5b442fa43a13de203a1c7589df3ca"
-
-[[files]]
-file = "mods/YungsBetterMineshafts-1.18.2-Fabric-2.2.jar"
-hash = "f93a8f59596022fe591e92c0a401f08abded0927a29c9e25e79f068c264039cf"
-
-[[files]]
-file = "mods/YungsBetterOceanMonuments-1.18.2-Fabric-1.0.3.jar"
-hash = "4ff130f98385e4bae9b166d706d3c1ee17d8417316668c5cc87e71acd5a8e825"
-
-[[files]]
-file = "mods/YungsBetterStrongholds-1.18.2-Fabric-2.1.1.jar"
-hash = "e1dddf21a5712174f5d98320062e442af05424732b5ae66be20eef597b37f289"
-
-[[files]]
-file = "mods/YungsBetterWitchHuts-1.18.2-Fabric-1.0.1.jar"
-hash = "73d7ca317e953b85c7a6826dae888d87928ddfc766d0bf184baa17f0a4b5a0ab"
-
-[[files]]
-file = "mods/YungsBridges-1.18.2-Fabric-2.1.0.jar"
-hash = "abbd2494ac53ba7de757c4514dad5ee3ab2c3792c7487959b1464a3ea0c451d7"
-
-[[files]]
-file = "mods/YungsExtras-1.18.2-Fabric-2.1.0.jar"
-hash = "a7793fdbf25456c43341bcdb76930f3ad9e14738e89d88a028a1838a7ee50e79"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "e5747dab7cf08bee2a062de60685217771615b8276f607e1ad6c6595e9b13197"
 metafile = true
@@ -1225,14 +1121,6 @@ hash = "e28ed28f238cb2ca497e06a7fd546a140807a42b56368d0365dc82c5d1400232"
 metafile = true
 
 [[files]]
-file = "mods/inventoryessentials-fabric-1.18.2-4.0.2.jar"
-hash = "06eaff357960aedb938a54c98f87d3e990ee37a4ed139850b6696948a222ba23"
-
-[[files]]
-file = "mods/ironchests-2.0.4-fabric.jar"
-hash = "e2d743df3b09cd9fe2b17c46840c6f2d68d3d481d42c1426ef9a4b88f93eea1d"
-
-[[files]]
 file = "mods/ironchests.pw.toml"
 hash = "b9516536fdb3625198df246c6ae657922981005f531d023ad4757f8e71c80088"
 metafile = true
@@ -1243,34 +1131,14 @@ hash = "7ae7d0a2acc16f881af9e7a256994cd61496c6ffc32ac15e24b3f97c8bdeb6a8"
 metafile = true
 
 [[files]]
-file = "mods/item-filters-fabric-1802.2.8-build.47.jar"
-hash = "e9f0e91ed56547a9275f8fc797d8793eb3ec997a0346f36aa1e72359e4b3de9d"
-
-[[files]]
 file = "mods/item-filters.pw.toml"
 hash = "5446a135421d4f9cc9c1f43fa7fdad58bd0eed4c2291a6f51eb03f1ec8fdc6bd"
 metafile = true
 
 [[files]]
-file = "mods/item-model-fix-1.0.3+1.18.jar"
-hash = "1407f1e21003f16d7809baaa81b1955fb730ff301355ad91f4fbf291c0520fd1"
-
-[[files]]
 file = "mods/item-model-fix.pw.toml"
 hash = "4b74568ba118a4d5dbc425a66e67af8362cef53d6b33f9c235a5a05f45d593f2"
 metafile = true
-
-[[files]]
-file = "mods/jecalculation-quilt-1.18.2-4.0.2.jar"
-hash = "e571f0312374010308ffb94b30395d9684dbe74f25e63fe081929c95b2b75dc7"
-
-[[files]]
-file = "mods/jmi-fabric-1.18.2-0.13-31.jar"
-hash = "83a4b6fb5a81625662ebf0e2065adc9e14bc0ef6fb903f46f523a49631af6b9e"
-
-[[files]]
-file = "mods/journeymap-1.18.2-5.9.0beta3-fabric.jar"
-hash = "546d11fc92c79ff45b83b3d1ba8dcbecd27039e6fec7ae5c0f50591fd1bd6769"
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
@@ -1288,21 +1156,9 @@ hash = "a9668b76f8e65d424f701ccbb20cca0324505bc933b52e3f8504b9349cbfa5a3"
 metafile = true
 
 [[files]]
-file = "mods/keywizard-fabric-v2.0.1.jar"
-hash = "b3bcdaca53a9f0276754a0c2800fb475357bce0a097ee49b1afeeb2d8cf8dc3a"
-
-[[files]]
-file = "mods/kibe-1.9.10-BETA+1.18.jar"
-hash = "e815e814138cbe9462c0dbd8296c177baade4d61c296098b195d793579d4b3b8"
-
-[[files]]
 file = "mods/kibe.pw.toml"
 hash = "3e47e98487168bea70eca4a17fd42530ce9fe4b4e1c62d882674e51d181c369a"
 metafile = true
-
-[[files]]
-file = "mods/kleeslabs-fabric-1.18.2-11.1.1.jar"
-hash = "810438ca1dbcee20b3958ca55980cc9dd5c7aace014a1f53df9da3d170ab7e49"
 
 [[files]]
 file = "mods/kleeslabs-fabric.pw.toml"
@@ -1315,45 +1171,9 @@ hash = "b5c165a51ce08f23cf48b678f26c73d6ce4e12eb19bd9bffe730a9b2166b2c39"
 metafile = true
 
 [[files]]
-file = "mods/konkrete_fabric_1.5.3_MC_1.18-1.18.2.jar"
-hash = "4ab767568a5611279af0e705f95fca5fab01f75036053e5a69d9672d7a6bb883"
-
-[[files]]
-file = "mods/kubejs-create-fabric-1802.2.2-build.28.jar"
-hash = "057dbf09b5825377585a2be66f406bff8741851dbe845014a038220ab004ef37"
-
-[[files]]
-file = "mods/kubejs-fabric-1802.5.5-build.562.jar"
-hash = "a76d140fcbf2a76c3c9f88476ac3bff63968b6a2b0d2455988765c52b005cc9e"
-
-[[files]]
-file = "mods/kubejs-ui-fabric-1802.1.8-build.17.jar"
-hash = "09ffb3b611e27ba3bd97540c37ed2fe1596b866e44c050b0507a6869804a3764"
-
-[[files]]
-file = "mods/kubejs_botania-1.0.2-fabric.jar"
-hash = "47bccc1c56d4f9d085f26a1e8fe046ec0e4e1bdd31be9245bffb4c0a5abbbbd2"
-
-[[files]]
-file = "mods/kubejs_curios-1.0.1-fabric-fix.jar"
-hash = "f1f8dd913a96660133a3d521b1a1f3d801baa21886c2d0a5b9071f5bca99d2ad"
-
-[[files]]
-file = "mods/language-reload-1.2.1.jar"
-hash = "acf995674b1d9d88203f762aeb7bac9756b946a3bd26d1b08f109f1b82b05c1e"
-
-[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "2c410266c2e5763c5ebaaedbe68519920e857c8d6edac44aadefa2b407d016f5"
 metafile = true
-
-[[files]]
-file = "mods/lazy-language-loader-0.3.0.jar"
-hash = "c8b336fd6ad75a9e0bd65e7c5bd2abccce7b507fb5ee47253a7a73081f511e9b"
-
-[[files]]
-file = "mods/libIPN-fabric-1.18.2-1.0.8.jar"
-hash = "46a46a4c23e024bf660b2c53c289790a934b43eadbbb2ec463396a6432a69238"
 
 [[files]]
 file = "mods/libipn.pw.toml"
@@ -1361,17 +1181,9 @@ hash = "530e689cbb6de8dd6dccf486bb3d44cf7f184aa5c6ea9bb5ba401124937e2170"
 metafile = true
 
 [[files]]
-file = "mods/light-overlay-6.0.5.jar"
-hash = "98f958edb3b5545f0bbe157ae202faddf2855d2d812b9989cd99f4ef6c508c03"
-
-[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "d01fb092c0d589adac82e463d30889dad8e32f87faaeeb73b15a285a7f8bcecb"
 metafile = true
-
-[[files]]
-file = "mods/lithium-fabric-mc1.18.2-0.10.2.jar"
-hash = "24f0eda789528afde46d447d61201ddb5fd5774252d98b04e0bc11915dd90ca9"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -1379,21 +1191,9 @@ hash = "9009a697370bb3798834b690eda2c418799e4e7bd4f3439cf767bbf0cd345ab3"
 metafile = true
 
 [[files]]
-file = "mods/loadingscreentips-1.0.1.jar"
-hash = "0d29f01961cdbf762203376c24840adb5d65e5928acbbc87702801b2b35b8480"
-
-[[files]]
 file = "mods/loadingscreentips.pw.toml"
 hash = "a6e7a551643518686eeffb6a82888a1b60be749aeb4af786897ff1d331667cfb"
 metafile = true
-
-[[files]]
-file = "mods/lootjs-fabric-1.18.2-2.7.7.jar"
-hash = "4606f5128d67e4866021883bf5ccd7dd4735b69589323371f5405f63f2c71011"
-
-[[files]]
-file = "mods/lootr-1.18.2-0.3.23.60.jar"
-hash = "c3ce61c011c6eb90a889e95da9c8e10d35fae99d89513d7e8735eff4bede56a3"
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
@@ -1406,26 +1206,14 @@ hash = "86f1b4d1fdcff07220fa615dfde62dd0c695860eebd8a2e499ca2aadf24e1810"
 metafile = true
 
 [[files]]
-file = "mods/megane-7.9.1.jar"
-hash = "67388c821229971bdf9a54511afcea0211bb2d7f4659d7a323c26e9bd7a96f13"
-
-[[files]]
 file = "mods/megane.pw.toml"
 hash = "1d15b4f366ffc9430ab6650362448777f8a99f585be792307cf329bf1bff6d4b"
 metafile = true
 
 [[files]]
-file = "mods/merequester-1.18.2-1.0.2.jar"
-hash = "a4c272f79698495aa8f2eda6b892bc251c3f141a6b17c0b4674d0f28f0dc19b7"
-
-[[files]]
 file = "mods/merequester.pw.toml"
 hash = "e0059629e1cbfa99bf998df23828517a320fa6b880209c64d6cc635819c16cf9"
 metafile = true
-
-[[files]]
-file = "mods/midnightlib-0.4.4.jar"
-hash = "3052664292756b4da6a04efaa0dabdfc346b9f1fe30d69d577d766a1ad1efa6d"
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
@@ -1436,10 +1224,6 @@ metafile = true
 file = "mods/mo-structures.pw.toml"
 hash = "fddea163704d62b0fe41fee6bb5f022ec593dd2a6cee03ee5a45ed6053d58a30"
 metafile = true
-
-[[files]]
-file = "mods/moderate-loading-screen-1.1.3+1.17-1.18.jar"
-hash = "e71bc8afa5d8f87ee46e0ae53cdc28c9efd8f4136bb291628a771f6707a971c3"
 
 [[files]]
 file = "mods/moderate-loading-screen.pw.toml"
@@ -1462,17 +1246,9 @@ hash = "c013f8fdeb6a922df3f41887f712e297146f11c3775e35a5cefe8d3023d21782"
 metafile = true
 
 [[files]]
-file = "mods/modmenu-3.2.4.jar"
-hash = "1085d0fe7caddd5abba413cc004d1f37c7e1c79fecc5dc5bed3524c9a4529865"
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e672a82c056e3aa8140bbdcdc82ccd7269133a830bcb880fa0b5fce9f42f2d3b"
 metafile = true
-
-[[files]]
-file = "mods/mostructures-1.4.2+1.18.2.jar"
-hash = "30510f295cb368141cb58ccf9c187c7a2cfb684b6fe04d7a6d22486de67654a9"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -1483,10 +1259,6 @@ metafile = true
 file = "mods/mystical-nature.pw.toml"
 hash = "6230826a7424d9effd5b4e4b1aced31613b3b67a66286c52f64ac8bbb714f6a8"
 metafile = true
-
-[[files]]
-file = "mods/mysticalnature-1.6.4-1.18.2.jar"
-hash = "06bc5cc208d5fae5f81b76c25b2c1b4596afdd05ad9cd08715c5c15a4f4589ac"
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
@@ -1504,21 +1276,9 @@ hash = "c0528bd15f246c1752725a90fcde0b4f860c23bec6969a075e9e74470179df0f"
 metafile = true
 
 [[files]]
-file = "mods/polymorph-fabric-0.0.21-1.18.2.jar"
-hash = "c241a8dcea05a9fed9a54f51e3c4e0fed185acb84f8887d73bcaf5ebfcbf1714"
-
-[[files]]
 file = "mods/polymorph-fabric.pw.toml"
 hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
 metafile = true
-
-[[files]]
-file = "mods/ponderjs-fabric-1.18.2-1.1.5.jar"
-hash = "7ea534ee50dc12a440f783a977f1218116c4e2ed6e9b1352e03dc0fae61c7a93"
-
-[[files]]
-file = "mods/probejs-4.0.0-fix2-fabric.jar"
-hash = "e9364c9539bdcfb0a7734822e40c109f41fb1cf0101c8486cb2b8f21f393ff19"
 
 [[files]]
 file = "mods/qsl-biomefix.pw.toml"
@@ -1531,10 +1291,6 @@ hash = "ce82dd38055992d8ef24a8d70372d4a57c4be55b08b6f31519f0381e25f295d2"
 metafile = true
 
 [[files]]
-file = "mods/questsadditions-fabric-1.18.2-1.4.0.jar"
-hash = "ffbe852fe80b457059a7b4cb9c1a7a84cad9a7321d226127ed97e1d44dfe6ef7"
-
-[[files]]
 file = "mods/reborncore.pw.toml"
 hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
 metafile = true
@@ -1545,29 +1301,9 @@ hash = "ca3660b833d66bb9f7edd3cc418a83c49d52fc8c7e50a3e245e4a232b8b5c413"
 metafile = true
 
 [[files]]
-file = "mods/repurposed_structures_fabric-4.1.15+1.18.2.jar"
-hash = "1b118ae91d0a8c68e24fd52919801e1bb321a25d3e692c4291c1d3d1b5e66b20"
-
-[[files]]
-file = "mods/rer-2.5.0.jar"
-hash = "83104356f5dc8f75ef0f2e9a63d128e4f204355b6bf987bacb261394b28ff403"
-
-[[files]]
-file = "mods/rhino-fabric-1802.2.1-build.255.jar"
-hash = "8f40c6dbc9512f7cff9a465d5c73e637a860956d1eb28844c70086bb48177301"
-
-[[files]]
-file = "mods/right-click-harvest-1.2.0+1.18.2-fabric.jar"
-hash = "98ac103a80a499ce68525b2ee25ff5584a682c30f1aae8c391194b516b7e24e8"
-
-[[files]]
 file = "mods/right-click-harvest.pw.toml"
 hash = "e25a4b4597ff2053ad012fced6836cc0cc787f4a73b88ad0e5806b2985e7a418"
 metafile = true
-
-[[files]]
-file = "mods/roughly-enough-characters-0.0.6+1.18.2-fabric0.13.3.jar"
-hash = "69b3c4e1b618929fd7b3b6f0fbb14cf8651ff42b0466951380e65d6271bfdd75"
 
 [[files]]
 file = "mods/roughly-enough-characters.pw.toml"
@@ -1595,10 +1331,6 @@ hash = "53335e3c29fbb36237257cfae9314f0be065cf83d759f5105a95009e70505c34"
 metafile = true
 
 [[files]]
-file = "mods/sandwichable-1.3+1.18.2.jar"
-hash = "14831834e1a587793dcf93ff1901b73b00e23b73811de481ae390546e12e21b6"
-
-[[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "92c96cc5f76249f62fb2da230fc1b8e1e5cb63c499fcc37ec87c14f6a5def342"
 metafile = true
@@ -1609,26 +1341,14 @@ hash = "3d49d666e0f24272574d6def23460d15127052ac2b92c88f2d1a12ce31507424"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar"
-hash = "776fb3cd8c8ddee898eb1d9dc88a72d899aaa8792f21914b39ad990cea253784"
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
-file = "mods/spark-1.9.11-fabric.jar"
-hash = "9aaca4aa6e415dae2970ddc0784d2414d39a7517c137ce925fba15dda0e30801"
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "b55d9d1ea5b5cadde5973123c0c644065f905afff5ea8d3d24c6d6564a7470cd"
 metafile = true
-
-[[files]]
-file = "mods/starlight-1.0.2+fabric.89b8d9f.jar"
-hash = "d8a8cfdd61502f5355581be72751ee35215418cc53de23a02071ee1ee295372d"
 
 [[files]]
 file = "mods/starlight.pw.toml"
@@ -1651,10 +1371,6 @@ hash = "61437323b2bcc7ea579161059f7128d2aad4a38188a0b7a3cbd031165c6b8b2b"
 metafile = true
 
 [[files]]
-file = "mods/travelers-backpack-1.18.2-7.1.12.jar"
-hash = "6de16014a885f4dbee14a577721a1a6b1523926ef171b41bfa0f6956c6fd9d66"
-
-[[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
 hash = "03b4ae02574b04f3b7b9de03ef95f37462cefef3effbb0800aaf810e5acc5421"
 metafile = true
@@ -1670,17 +1386,9 @@ hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
-file = "mods/upc-0.0.2.jar"
-hash = "bbff7c0652047098384cb5a9a61deadec06a7a3fefc1190acc14beacca4ba9d4"
-
-[[files]]
 file = "mods/upc.pw.toml"
 hash = "2f4f23cf5d9b0f11b32905f8069196831d88d8ab0ba4bdeb2caacdf26d982902"
 metafile = true
-
-[[files]]
-file = "mods/waystones-fabric-1.18.2-10.1.0.jar"
-hash = "68e38314b2cb7ed5e450aaa8addb0a3af333260bfe8efe112b368c270e0fb6b8"
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
@@ -1691,14 +1399,6 @@ metafile = true
 file = "mods/wireless-networks.pw.toml"
 hash = "e8723fb6d3ed1e7d7a10f53ad1b30dd19a1aaa53dde6f15d4c0ea249a5ee50c2"
 metafile = true
-
-[[files]]
-file = "mods/wirelessnetworks-1.5.1.jar"
-hash = "fc1526f20dd15b9454cb964059f8f05b4ebb9bff808b557fa26346b7dc6c544d"
-
-[[files]]
-file = "mods/wraith-croptosis-1.5.0.jar"
-hash = "28ef51995fd58afd1fe7676d238602584ada2125b099acfe348c0e4230c5d7c2"
 
 [[files]]
 file = "mods/wthit.pw.toml"
