@@ -14,13 +14,13 @@ import net.minecraft.util.registry.Registry;
 public enum ModEntry {
     MI("modern_industrialization");
 
-    protected final ModContainer mod;
-    protected final String id;
+    private final ModContainer mod;
+    private final String id;
 
     ModEntry(String modId) {
         Optional<ModContainer> optional = QuiltLoader.getModContainer(modId);
-        if (!optional.isPresent())
-            throw new RuntimeErrorException(new Error("ModContainer " + modId + " dosen't exist!"));
+        if (optional.isEmpty())
+            throw new RuntimeErrorException(new Error("ModContainer " + modId + " doesn't exist!"));
         this.mod = optional.get();
         this.id = modId;
     }
