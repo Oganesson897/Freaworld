@@ -1,5 +1,7 @@
 package team.miohouse.freaworld.helper.tags;
 
+import java.util.Map;
+
 import org.quiltmc.qsl.base.api.event.Event;
 import org.quiltmc.qsl.base.api.event.EventAwareListener;
 
@@ -9,8 +11,6 @@ import net.minecraft.item.Item;
 import net.minecraft.tag.Tag;
 import net.minecraft.util.Holder;
 import net.minecraft.util.Identifier;
-
-import java.util.Map;
 
 @FunctionalInterface
 public interface LoadTagsCallback<T> extends EventAwareListener {

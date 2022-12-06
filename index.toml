@@ -965,11 +965,6 @@ hash = "62b77ea2ff9f7eeca70997ca1a72e91f56fb1f87632965be91e12faf121fcaaa"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "8cf5324d7ab4e2080d3abb786acdc1a2f4fa0a139d296ae056db321362edff77"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
@@ -1128,16 +1123,6 @@ hash = "4b74568ba118a4d5dbc425a66e67af8362cef53d6b33f9c235a5a05f45d593f2"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-integration.pw.toml"
-hash = "b036ebb6c9f3a7177220ec7f5fc6bc84186a9236837b30d2bc3ad9667b617b03"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "9d1d54ab28651ae535cd28494a34e2753af1c810ec3d1c2b8247deae75fd69a2"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "a9668b76f8e65d424f701ccbb20cca0324505bc933b52e3f8504b9349cbfa5a3"
 metafile = true
@@ -1210,11 +1195,6 @@ metafile = true
 [[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "fddea163704d62b0fe41fee6bb5f022ec593dd2a6cee03ee5a45ed6053d58a30"
-metafile = true
-
-[[files]]
-file = "mods/moderate-loading-screen.pw.toml"
-hash = "2cfc54404f2068dbd5d718861203bbe9955ef99ed2775fe0c873e0a1175ca976"
 metafile = true
 
 [[files]]
@@ -1323,11 +1303,6 @@ hash = "92c96cc5f76249f62fb2da230fc1b8e1e5cb63c499fcc37ec87c14f6a5def342"
 metafile = true
 
 [[files]]
-file = "mods/sinocate.pw.toml"
-hash = "3d49d666e0f24272574d6def23460d15127052ac2b92c88f2d1a12ce31507424"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
@@ -1370,11 +1345,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
-metafile = true
-
-[[files]]
-file = "mods/upc.pw.toml"
-hash = "2f4f23cf5d9b0f11b32905f8069196831d88d8ab0ba4bdeb2caacdf26d982902"
 metafile = true
 
 [[files]]

@@ -17,12 +17,11 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"events" : [
-				"team.miohouse.freaworld.data.recipe.RecipeTweaks"
+			"events": [
+				"team.miohouse.freaworld.data.RecipeTweaks",
+				"team.miohouse.freaworld.data.TagTweaks"
 			],
-			"init" : [
-				"team.miohouse.freaworld.Freaworld"
-			]
+			"init": ["team.miohouse.freaworld.Freaworld"]
 		},
 		"depends": [
 			{

@@ -1,4 +1,4 @@
-package team.miohouse.freaworld.data.recipe;
+package team.miohouse.freaworld.data;
 
 import static team.miohouse.freaworld.ModEntry.MI;
 

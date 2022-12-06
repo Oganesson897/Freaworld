@@ -1,9 +1,5 @@
 package team.miohouse.freaworld;
 
-import java.util.Optional;
-
-import javax.management.RuntimeErrorException;
-
 import org.quiltmc.loader.api.ModContainer;
 import org.quiltmc.loader.api.QuiltLoader;
 
@@ -11,29 +7,41 @@ import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
+import org.jetbrains.annotations.Nullable;
+
+import javax.management.RuntimeErrorException;
+import java.util.Optional;
+
 public enum ModEntry {
-    MI("modern_industrialization");
+	MI("modern_industrialization"), BE("betterend"), C("c");
 
-    private final ModContainer mod;
-    private final String id;
+	private final ModContainer mod;
+	private final String id;
 
-    ModEntry(String modId) {
-        Optional<ModContainer> optional = QuiltLoader.getModContainer(modId);
-        if (optional.isEmpty())
-            throw new RuntimeErrorException(new Error("ModContainer " + modId + " doesn't exist!"));
-        this.mod = optional.get();
-        this.id = modId;
-    }
+	ModEntry(String modId) {
+		if (modId.length() >= 3) {
+			Optional<ModContainer> optional = QuiltLoader.getModContainer(modId);
+			if (optional.isEmpty())
+				throw new RuntimeErrorException(new Error("ModContainer " + modId + " doesn't exist!"));
+			this.mod = optional.get();
+		} else this.mod = null;
+		this.id = modId;
+	}
 
-    public String getModId() {
-        return this.id;
-    }
+	@Nullable
+	public ModContainer getContainer() {
+		return this.mod;
+	}
 
-    public Identifier asId(String path) {
-        return new Identifier(getModId(), path);
-    }
+	public String getModId() {
+		return this.id;
+	}
 
-    public Item asItem(String name) {
-        return Registry.ITEM.get(asId(name));
-    }
+	public Identifier asId(String path) {
+		return new Identifier(getModId(), path);
+	}
+
+	public Item asItem(String name) {
+		return Registry.ITEM.get(asId(name));
+	}
 }
