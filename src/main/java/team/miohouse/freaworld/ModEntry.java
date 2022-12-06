@@ -12,7 +12,7 @@ import org.jetbrains.annotations.Nullable;
 import java.util.Optional;
 
 public enum ModEntry {
-	MI("modern_industrialization"), BE("betterend"), C("c"), BALM("balm");
+	MI("modern_industrialization"), BE("betterend"), C("c"), BALM("balm"), CREATE("create");
 
 	private final ModContainer mod;
 	private final String id;
