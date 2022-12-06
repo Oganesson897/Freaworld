@@ -1,7 +1,15 @@
 package team.miohouse.freaworld.mixin;
 
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+
 import org.quiltmc.qsl.tag.api.QuiltTagKey;
 import org.quiltmc.qsl.tag.api.TagType;
+import org.spongepowered.asm.mixin.Mixin;
+import org.spongepowered.asm.mixin.injection.At;
+import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 import net.minecraft.block.Block;
 import net.minecraft.fluid.Fluid;
@@ -13,17 +21,8 @@ import net.minecraft.util.Holder;
 import net.minecraft.util.registry.DynamicRegistryManager;
 import net.minecraft.util.registry.Registry;
 import net.minecraft.util.registry.RegistryKey;
-
-import org.spongepowered.asm.mixin.Mixin;
-import org.spongepowered.asm.mixin.injection.At;
-import org.spongepowered.asm.mixin.injection.Inject;
-import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import team.miohouse.freaworld.helper.tags.LoadTagsCallback;
 import team.miohouse.freaworld.helper.tags.TagsHandlerImpl;
-
-import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
 
 @Mixin(ServerReloadableResources.class)
 public class ServerReloadableResourcesMixin {

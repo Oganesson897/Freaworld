@@ -1,10 +1,8 @@
 package team.miohouse.freaworld.helper.tags;
 
 import java.util.Map;
-import java.util.function.Predicate;
 
 import org.quiltmc.qsl.base.api.event.Event;
-import org.quiltmc.qsl.base.api.event.EventAwareListener;
 
 import net.minecraft.block.Block;
 import net.minecraft.fluid.Fluid;

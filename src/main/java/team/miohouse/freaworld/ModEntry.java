@@ -1,5 +1,6 @@
 package team.miohouse.freaworld;
 
+import org.jetbrains.annotations.Nullable;
 import org.quiltmc.loader.api.ModContainer;
 import org.quiltmc.loader.api.QuiltLoader;
 
@@ -7,12 +8,8 @@ import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
-import org.jetbrains.annotations.Nullable;
-
-import java.util.Optional;
-
 public enum ModEntry {
-	MI("modern_industrialization"), BE("betterend"), C("c"), BALM("balm");
+	MC("minecraft"), MI("modern_industrialization"), BE("betterend"), C("c"), BALM("balm"), CR("create");
 
 	private final ModContainer mod;
 	private final String id;

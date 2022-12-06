@@ -13,7 +13,6 @@ public class ItemTagTweaks implements LoadTagsCallback<Item> {
 	public void load(TagHandler<Item> handler) {
 		handler.remove(C.asId("iron_ingots"), BE.asItem("thallasium_ingot"));
 		handler.remove(BALM.asId("iron_ingots"), BE.asItem("thallasium_ingot"));
-		handler.register(C.asId("thallasium_ingots"), BE.asItem("thallasium_ingot"));
 	}
 
 }
