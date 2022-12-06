@@ -9,22 +9,16 @@ import net.minecraft.util.registry.Registry;
 
 import org.jetbrains.annotations.Nullable;
 
-import javax.management.RuntimeErrorException;
 import java.util.Optional;
 
 public enum ModEntry {
-	MI("modern_industrialization"), BE("betterend"), C("c");
+	MI("modern_industrialization"), BE("betterend"), C("c"), BALM("balm");
 
 	private final ModContainer mod;
 	private final String id;
 
 	ModEntry(String modId) {
-		if (modId.length() >= 3) {
-			Optional<ModContainer> optional = QuiltLoader.getModContainer(modId);
-			if (optional.isEmpty())
-				throw new RuntimeErrorException(new Error("ModContainer " + modId + " doesn't exist!"));
-			this.mod = optional.get();
-		} else this.mod = null;
+		this.mod = QuiltLoader.getModContainer(modId).orElse(null);
 		this.id = modId;
 	}
 

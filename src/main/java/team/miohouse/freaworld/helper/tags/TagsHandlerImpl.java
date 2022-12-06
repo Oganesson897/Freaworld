@@ -3,6 +3,7 @@ package team.miohouse.freaworld.helper.tags;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.function.Predicate;
 
 import org.jetbrains.annotations.ApiStatus.Internal;
 
