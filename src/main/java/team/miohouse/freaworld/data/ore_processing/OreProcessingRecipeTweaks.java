@@ -35,6 +35,6 @@ public class OreProcessingRecipeTweaks implements AddRecipesCallback, RemoveReci
 
     @Override
     public void addRecipes(AddRecipesCallback.RecipeHandler handler) {
-      
+
     }
 }
