@@ -5,11 +5,11 @@ import org.quiltmc.qsl.base.api.entrypoint.ModInitializer;
 import org.quiltmc.qsl.resource.loader.api.ResourceLoader;
 import org.quiltmc.qsl.resource.loader.api.ResourcePackActivationType;
 
+import com.dm.earth.tags_binder.api.LoadTagsCallback;
+
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
-
 import team.miohouse.freaworld.data.ItemTagTweaks;
-import team.miohouse.freaworld.helper.tags.LoadTagsCallback;
 
 public class Freaworld implements ModInitializer {
 
@@ -19,7 +19,7 @@ public class Freaworld implements ModInitializer {
     public void onInitialize(ModContainer mod) {
         ResourceLoader.registerBuiltinResourcePack(id("data_overrides"), ResourcePackActivationType.ALWAYS_ENABLED,
                 Text.of("Freaworld: Data Overrides"));
-	    LoadTagsCallback.ITEMS.register(new ItemTagTweaks());
+	    LoadTagsCallback.ITEM.register(new ItemTagTweaks());
     }
 
     public static Identifier id(String path) {
