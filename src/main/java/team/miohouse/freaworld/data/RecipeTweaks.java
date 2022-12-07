@@ -1,6 +1,7 @@
 package team.miohouse.freaworld.data;
 
 import static team.miohouse.freaworld.ModEntry.MI;
+import static team.miohouse.freaworld.ModEntry.CR;
 
 import org.quiltmc.qsl.recipe.api.RecipeLoadingEvents.AddRecipesCallback;
 import org.quiltmc.qsl.recipe.api.RecipeLoadingEvents.RemoveRecipesCallback;
