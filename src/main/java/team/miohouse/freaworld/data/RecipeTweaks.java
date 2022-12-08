@@ -11,6 +11,7 @@ public class RecipeTweaks implements RemoveRecipesCallback, AddRecipesCallback {
     @Override
     public void removeRecipes(RemoveRecipesCallback.RecipeHandler handler) {
         handler.removeIf(p -> p.getOutput().isOf(MI.asItem("forge_hammer")));
+		handler.removeIf(s -> s.getOutput().isOf(CR.asItem("mechanical_press")));
     }
 
     @Override
