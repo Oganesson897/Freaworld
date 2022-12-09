@@ -18,7 +18,7 @@ public class Freaworld implements ModInitializer {
 
     public static final String ID = "freaworld";
     public static final ItemGroup MAIN_GROUP = QuiltItemGroup.createWithIcon(id("main"),
-            () -> FRItems.CRUSHED_ANTIMONY.getDefaultStack());
+            () -> FRItems.FREAWORLD.getDefaultStack());
 
     @Override
     public void onInitialize(ModContainer mod) {
@@ -30,5 +30,4 @@ public class Freaworld implements ModInitializer {
     public static Identifier id(String path) {
         return new Identifier(ID, path);
     }
-
 }

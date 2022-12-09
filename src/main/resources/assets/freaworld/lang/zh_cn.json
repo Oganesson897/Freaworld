@@ -2,5 +2,7 @@
   "pack.freaworld.data_overrides": "Freaworld: 数据覆写",
   "itemGroup.freaworld.main": "Freaworld",
 
-  "item.freaworld.crushed_antimony_ore": "粉碎锑矿石"
+  "item.freaworld.crushed_antimony_ore": "粉碎锑矿石",
+  "item.freaworld.crushed_bauxite_ore": "粉碎铝土矿石",
+  "item.freaworld.freaworld": "Freaworld"
 }
