@@ -865,6 +865,11 @@ hash = "0af80b01b702c1a4dcb1e3ecd3b2d58a6ab6f2747365f13751e08734871ced5d"
 metafile = true
 
 [[files]]
+file = "mods/conveniented-forge-tags.pw.toml"
+hash = "309197f6eddfe2830c87327af91e987368e90edc120a222ca6fcfeb596685ed1"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
 metafile = true

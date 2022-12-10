@@ -23,11 +23,11 @@ public class FRItems {
     public static final Item CRUSHED_TUNGSTEN_ORE = register(
             new SimpleColoredItem(Properties.DEFAULT, 0x551A8B), "crushed_tungsten_ore");
 
-    private static <T extends Item> T register(T item, String name) {
+    public static <T extends Item> T register(T item, String name) {
         return Registry.register(Registry.ITEM, Freaworld.id(name), item);
     }
 
-    private static class Properties {
+    public static class Properties {
         public static final Item.Settings DEFAULT = new QuiltItemSettings().group(Freaworld.MAIN_GROUP);
     }
 }

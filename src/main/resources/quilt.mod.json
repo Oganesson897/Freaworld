@@ -18,8 +18,9 @@
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
 			"events": ["team.miohouse.freaworld.data.RecipeTweaks"],
+			"client_events": ["team.miohouse.freaworld.client.FrHandCommand"],
 			"init": ["team.miohouse.freaworld.Freaworld"],
-			"client": ["team.miohouse.freaworld.client.FreaworldClient"]
+			"client_init": ["team.miohouse.freaworld.client.FreaworldClient"]
 		},
 		"depends": [
 			{
