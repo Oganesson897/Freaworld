@@ -1,8 +1,8 @@
 {
   "default": {
-    "borderStart": "505000ff",
-    "borderEnd": "5028007f",
-    "background": "f0100010"
+    "borderStart": "f000ffcc",
+    "borderEnd": "f02196f3",
+    "background": "b5000000"
   },
   "overrides": []
 }
