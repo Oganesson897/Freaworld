@@ -1,9 +1,10 @@
 ==Section:TopLeft==
+&2当前游戏: Freaworld-1.18.2-Quilt
 {{fps >= 60, "&a","{{fps < 30, '&c', '&e'}}"}}{fps}&f fps
 &cX&aY&bZ: &c{bx} &a{by} &b{bz} &f| &e{velocity_xz}
-&2Facing: &a{facing} &e({facing_towards_pn_sign}{facing_towards_xz})
-&2Biome: &a{biome}
-&2Ddimension: &a{dimension} {{slime_chunk,"&bSlime"}}
-
-&6Day: &e{day}
-&6Time: &e{hour24}:{minute}
+&2方向: &a{facing} &e({facing_towards_pn_sign}{facing_towards_xz})
+&2生物群系: &a{biome}
+&2维度: &a{dimension} {{slime_chunk,"&b史莱姆"}}
+&2内存: &a{memory_used_percentage}
+&6日期: &e{day}
+&6时间: &e{hour24}:{minute}
