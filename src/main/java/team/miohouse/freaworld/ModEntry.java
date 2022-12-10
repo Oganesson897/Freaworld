@@ -12,7 +12,7 @@ import net.minecraft.util.registry.Registry;
 
 public enum ModEntry {
 	MC("minecraft"), MI("modern_industrialization"), BE("betterend"), C("c"), BALM("balm"), CR("create"),
-	AR("advanced_reborn");
+	AR("advanced_reborn"), TC("tconstruct");
 
 	private final ModContainer mod;
 	private final String id;
