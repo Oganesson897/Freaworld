@@ -3,6 +3,7 @@ package team.miohouse.freaworld.data;
 import static team.miohouse.freaworld.ModEntry.AR;
 import static team.miohouse.freaworld.ModEntry.*;
 
+import java.util.Arrays;
 import java.util.List;
 
 import org.quiltmc.qsl.recipe.api.RecipeLoadingEvents.AddRecipesCallback;
@@ -23,6 +24,7 @@ import net.minecraft.tag.ItemTags;
 import net.minecraft.util.Identifier;
 import team.miohouse.freaworld.Freaworld;
 import team.miohouse.freaworld.registry.FRBlocks;
+import team.miohouse.freaworld.registry.FRItems;
 
 public class RecipeTweaks implements RemoveRecipesCallback, AddRecipesCallback {
 	public static final String G = "ray_generator";
@@ -160,14 +162,29 @@ public class RecipeTweaks implements RemoveRecipesCallback, AddRecipesCallback {
 		handler.register(recipeId("smithing", "encased_fan"),
 				id -> new SmithingRecipe(id, Ingredient.ofItems(FRBlocks.ANDESITE_MACHINE_CASING.asItem()),
 						Ingredient.ofItems(AllItems.PROPELLER.get()), AllBlocks.ENCASED_FAN.asStack()));
+
+		handler.register(recipeId("smithing", "millstone"),
+				id -> new SmithingRecipe(id, Ingredient.ofItems(FRBlocks.ANDESITE_MACHINE_CASING.asItem()),
+						Ingredient.ofItems(FRItems.ANDESITE_ALLOY_GEAR), AllBlocks.ENCASED_FAN.asStack()));
 	}
 
 	public static boolean notFr(Recipe<?> recipe) {
 		return !recipe.getId().getNamespace().equals(Freaworld.ID);
 	}
 
-	private static Identifier recipeId(String type, String name) {
+	public static Identifier recipeId(String type, String name) {
 		return Freaworld.id(type + "/" + name);
+	}
+
+	public static boolean testAll(ItemConvertible item, List<Ingredient> ingredients) {
+		for (Ingredient ingredient : ingredients)
+			if (ingredient.test(item.asItem().getDefaultStack()))
+				return true;
+		return false;
+	}
+
+	public static boolean testAll(ItemConvertible item, Ingredient... ingredients) {
+		return testAll(item, Arrays.asList(ingredients));
 	}
 
 }

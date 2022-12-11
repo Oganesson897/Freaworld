@@ -12,6 +12,7 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.text.TranslatableText;
 import net.minecraft.util.Identifier;
 import team.miohouse.freaworld.data.ItemTagTweaks;
+import team.miohouse.freaworld.registry.FRBlocks;
 import team.miohouse.freaworld.registry.FRItems;
 
 public class Freaworld implements ModInitializer {
@@ -22,6 +23,8 @@ public class Freaworld implements ModInitializer {
 
     @Override
     public void onInitialize(ModContainer mod) {
+		FRItems.load();
+		FRBlocks.load();
         ResourceLoader.registerBuiltinResourcePack(id("data_overrides"), ResourcePackActivationType.ALWAYS_ENABLED,
                 new TranslatableText("pack." + ID + ".data_overrides"));
         LoadTagsCallback.ITEM.register(new ItemTagTweaks());

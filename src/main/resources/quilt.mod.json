@@ -17,7 +17,10 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"events": ["team.miohouse.freaworld.data.RecipeTweaks"],
+			"events": [
+				"team.miohouse.freaworld.data.RecipeTweaks",
+				"team.miohouse.freaworld.data.ore_processing.OreProcessingRecipeTweaks"
+			],
 			"client_events": ["team.miohouse.freaworld.client.FrHandCommand"],
 			"init": ["team.miohouse.freaworld.Freaworld"],
 			"client_init": ["team.miohouse.freaworld.client.FreaworldClient"]

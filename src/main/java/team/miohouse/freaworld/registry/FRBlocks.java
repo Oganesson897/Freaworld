@@ -17,4 +17,7 @@ public class FRBlocks {
 		FRItems.register(new BlockItem(block, FRItems.Properties.DEFAULT), name);
 		return Registry.register(Registry.BLOCK, Freaworld.id(name), block);
 	}
+
+	public static void load() {
+	}
 }

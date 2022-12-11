@@ -45,7 +45,7 @@ public class JRecipeUtil {
 	/*
 	 * generate a melting recipe from TConstruct.
 	 */
-	private static Recipe<?> generateMelting(Identifier id, Identifier input, Identifier fluid, long amount,
+	public static Recipe<?> generateMelting(Identifier id, Identifier input, Identifier fluid, long amount,
 			@Nullable Identifier byProduct, long byAmount) {
 		JsonObject json = new JsonObject();
 		json.addProperty("type", TC.asId("melting").toString());

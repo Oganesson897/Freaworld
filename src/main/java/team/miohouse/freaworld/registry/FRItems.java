@@ -11,6 +11,8 @@ import team.miohouse.freaworld.content.item.SimpleColoredItem;
 public class FRItems {
     public static final Item FREAWORLD = register(new Item(new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE)),
             "freaworld");
+    public static final Item ANDESITE_ALLOY_GEAR = register(new Item(new QuiltItemSettings().maxCount(64)),
+            "andesite_alloy_gear");
 
     public static final Item CRUSHED_ANTIMONY_ORE = register(
             new SimpleColoredItem(Properties.DEFAULT, 0xb8b8c9), "crushed_antimony_ore");
@@ -29,5 +31,8 @@ public class FRItems {
 
     public static class Properties {
         public static final Item.Settings DEFAULT = new QuiltItemSettings().group(Freaworld.MAIN_GROUP);
+    }
+
+    public static void load() {
     }
 }

@@ -15,9 +15,13 @@ public class FreePRP extends ProcessingRecipeBuilder.ProcessingRecipeParams {
     /*
      * FreePRP is a free version of ProcessingRecipeParams.
      */
-    public FreePRP(Identifier id) {
+    protected FreePRP(Identifier id) {
         super(id);
     }
+
+	public static FreePRP of(Identifier id) {
+		return new FreePRP(id);
+	}
 
     public FreePRP setIngredient(List<Ingredient> ingredients) {
         this.ingredients.addAll(ingredients);
