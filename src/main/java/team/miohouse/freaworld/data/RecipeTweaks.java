@@ -48,7 +48,7 @@ public class RecipeTweaks implements RemoveRecipesCallback, AddRecipesCallback {
 			Items.SMITHING_TABLE,
 			Items.PISTON,
 			Blocks.CAULDRON,
-			// AdvancedRoborn
+			// Advanced Reborn
 			AR.asItem(G),
 			AR.asItem(G + "_2"),
 			AR.asItem(G + "_3"),
@@ -157,7 +157,7 @@ public class RecipeTweaks implements RemoveRecipesCallback, AddRecipesCallback {
 
 		handler.register(recipeId("smithing", "mechanical_mixer"),
 				id -> new SmithingRecipe(id, Ingredient.ofItems(FRBlocks.ANDESITE_MACHINE_CASING.asItem()),
-						Ingredient.ofItems(AllItems.WHISK.get()), AllBlocks.MECHANICAL_PRESS.asStack()));
+						Ingredient.ofItems(AllItems.WHISK.get()), AllBlocks.MECHANICAL_MIXER.asStack()));
 
 		handler.register(recipeId("smithing", "encased_fan"),
 				id -> new SmithingRecipe(id, Ingredient.ofItems(FRBlocks.ANDESITE_MACHINE_CASING.asItem()),
@@ -165,7 +165,7 @@ public class RecipeTweaks implements RemoveRecipesCallback, AddRecipesCallback {
 
 		handler.register(recipeId("smithing", "millstone"),
 				id -> new SmithingRecipe(id, Ingredient.ofItems(FRBlocks.ANDESITE_MACHINE_CASING.asItem()),
-						Ingredient.ofItems(FRItems.ANDESITE_ALLOY_GEAR), AllBlocks.ENCASED_FAN.asStack()));
+						Ingredient.ofItems(FRItems.ANDESITE_ALLOY_GEAR), AllBlocks.MILLSTONE.asStack()));
 	}
 
 	public static boolean notFr(Recipe<?> recipe) {

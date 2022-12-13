@@ -11,10 +11,12 @@ import com.simibubi.create.content.contraptions.components.millstone.MillingReci
 import com.simibubi.create.content.contraptions.processing.ProcessingOutput;
 
 import net.fabricmc.fabric.api.transfer.v1.fluid.FluidConstants;
+import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.recipe.AbstractCookingRecipe;
 import net.minecraft.recipe.Ingredient;
 import net.minecraft.util.Identifier;
+import net.minecraft.util.registry.Registry;
 import team.miohouse.freaworld.Freaworld;
 import team.miohouse.freaworld.data.util.FreePRP;
 import team.miohouse.freaworld.data.util.JRecipeUtil;
@@ -43,6 +45,20 @@ public class OreProcessingRecipeTweaks implements AddRecipesCallback, RemoveReci
 			handler.register(recipeId(entry, "smelting", entry.getCrushedOreId().getPath()),
 					id -> VanillaRecipeBuilders.smeltingRecipe(id, "", Ingredient.ofItems(entry.getCrushedOre()),
 							new ItemStack(entry.getNugget(), 3), 0.125F, 400));
+			handler.register(recipeId(entry, "blasting", entry.getCrushedOreId().getPath()),
+					id -> VanillaRecipeBuilders.blastingRecipe(id, "", Ingredient.ofItems(entry.getCrushedOre()),
+							new ItemStack(entry.getNugget(), 3), 0.125F, 200));
+
+			for (Identifier ore : entry.getOreIds()) {
+				Item item = Registry.ITEM.get(ore);
+				handler.register(recipeId(entry, "smelting", ore.getPath()),
+						id -> VanillaRecipeBuilders.smeltingRecipe(id, "", Ingredient.ofItems(item),
+								new ItemStack(entry.getNugget(), 6), 0.125F, 400));
+				handler.register(recipeId(entry, "blasting", ore.getPath()),
+						id -> VanillaRecipeBuilders.blastingRecipe(id, "", Ingredient.ofItems(item),
+								new ItemStack(entry.getNugget(), 6), 0.125F, 200));
+			}
+
 			handler.register(recipeId(entry, "milling", entry.getCrushedOreId().getPath()),
 					id -> new MillingRecipe(FreePRP.of(id).setIngredient(Ingredient.ofItems(entry.getCrushedOre()))
 							.setResult(new ProcessingOutput(entry.getDust().getDefaultStack(), 1))
